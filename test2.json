@@ -1,0 +1,4717 @@
+{
+    "http://ci.nii.ac.jp/ncid/BA69093873": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA69093873.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA69093873#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA69093873.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "西洋倫理思想史における身体の問題"
+                    },
+                    {
+                        "@value": "セイヨウ リンリ シソウシ ニ オケル シンタイ ノ モンダイ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦研究代表者",
+                "dc:publisher": [
+                    "[熊野純彦]"
+                ],
+                "dcterms:extent": "vi, 120p",
+                "cinii:size": "30cm",
+                "dc:language": "jpn",
+                "dc:date": "2004",
+                "cinii:ncid": "BA69093873",
+                "cinii:ownerCount": "2",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2004.3"
+                ],
+                "cinii:note": [
+                    "平成13-15年度科学研究費補助金基盤研究(B)(1)研究成果報告書",
+                    "研究課題番号: 13410012"
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB29718066": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB29718066.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB29718066#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB29718066.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "三島由紀夫"
+                    },
+                    {
+                        "@value": "ミシマ ユキオ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "清水書院"
+                ],
+                "dcterms:extent": "276, vip, 図版 [1] 枚",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2020",
+                "cinii:ncid": "BB29718066",
+                "cinii:ownerCount": "38",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2020.2"
+                ],
+                "cinii:note": [
+                    "三島由紀夫年譜: p253-270",
+                    "参考文献: p271-276"
+                ],
+                "dc:subject": [
+                    "NDC8:910.268",
+                    "NDC9:910.268",
+                    "NDC10:910.268"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E4%B8%89%E5%B3%B6%2C+%E7%94%B1%E7%B4%80%E5%A4%AB",
+                        "dc:title": "三島, 由紀夫"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00590657#entity",
+                        "dc:title": "Century books, . 人と思想||ヒト ト シソウ ; 197",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784389421977"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB26771517": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB26771517.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB26771517#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB26771517.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "本居宣長"
+                    },
+                    {
+                        "@value": "モトオリ ノリナガ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "作品社"
+                ],
+                "dcterms:extent": "iv, 899p",
+                "cinii:size": "22cm",
+                "dc:language": "jpn",
+                "dc:date": "2018",
+                "cinii:ncid": "BB26771517",
+                "cinii:ownerCount": "120",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2018.9"
+                ],
+                "cinii:note": [
+                    "参考文献: p877-889"
+                ],
+                "dc:subject": [
+                    "NDC8:121.52",
+                    "NDC9:121.52",
+                    "NDC10:121.52"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%9C%AC%E5%B1%85%2C+%E5%AE%A3%E9%95%B7",
+                        "dc:title": "本居, 宣長"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%9C%AC%E5%B1%85%2C+%E5%AE%A3%E9%95%B7%281730-1801%29",
+                        "dc:title": "本居, 宣長(1730-1801)"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784861827051"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA64053270": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA64053270.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA64053270#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA64053270.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "差異と隔たり : 他なるものへの倫理"
+                    },
+                    {
+                        "@value": "サイ ト ヘダタリ : タ ナル モノ エノ リンリ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xvii, 240, 4p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2003",
+                "cinii:ncid": "BA64053270",
+                "cinii:ownerCount": "201",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2003.10"
+                ],
+                "dc:subject": [
+                    "NDC8:150.4",
+                    "NDC9:150.4"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%80%AB%E7%90%86%E5%AD%A6",
+                        "dc:title": "倫理学"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4000230085"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA56300352": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA56300352.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA56300352#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA56300352.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "ヘーゲル : 「他なるもの」をめぐる思考"
+                    },
+                    {
+                        "@value": "ヘーゲル : タナル モノ オ メグル シコウ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Georg Wilhelm Friedrich Hegel"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "筑摩書房"
+                ],
+                "dcterms:extent": "291, xviip",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2002",
+                "cinii:ncid": "BA56300352",
+                "cinii:ownerCount": "151",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2002.3"
+                ],
+                "cinii:note": [
+                    "参考文献: 巻末px-xvii"
+                ],
+                "dc:subject": [
+                    "NDC8:134.4",
+                    "NDC9:134.4"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Hegel%2C+Georg+Wilhelm+Friedrich",
+                        "dc:title": "Hegel, Georg Wilhelm Friedrich"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4480847111"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA42030770": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA42030770.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA42030770#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA42030770.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "レヴィナス : 移ろいゆくものへの視線"
+                    },
+                    {
+                        "@value": "レヴィナス : ウツロイユク モノ エノ シセン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xviii, 291, 12p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "1999",
+                "cinii:ncid": "BA42030770",
+                "cinii:ownerCount": "205",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "1999.6"
+                ],
+                "dc:subject": [
+                    "NDC8:135.5",
+                    "NDC9:135.5"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2C+Emmanuel",
+                        "dc:title": "Levinas, Emmanuel"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4000025228"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA41469101": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA41469101.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA41469101#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA41469101.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "レヴィナス入門"
+                    },
+                    {
+                        "@value": "レヴィナス ニュウモン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "筑摩書房"
+                ],
+                "dcterms:extent": "221p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "1999",
+                "cinii:ncid": "BA41469101",
+                "cinii:ownerCount": "189",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "1999.5"
+                ],
+                "cinii:note": [
+                    "レヴィナスを読むためのブックガイド: p218-221"
+                ],
+                "dc:subject": [
+                    "NDC8:135.5",
+                    "NDC9:135.5"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2C+Emmanuel",
+                        "dc:title": "Levinas, Emmanuel"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2CEmmanuel%281906-1995%29",
+                        "dc:title": "Levinas,Emmanuel(1906-1995)"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN1135760X#entity",
+                        "dc:title": "ちくま新書, 200",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784480058003"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BN11371531": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BN11371531.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BN11371531#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BN11371531.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "倫理学を学ぶ人のために"
+                    },
+                    {
+                        "@value": "リンリガク オ マナブ ヒト ノ タメ ニ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "宇都宮芳明, 熊野純彦編",
+                "dc:publisher": [
+                    "世界思想社"
+                ],
+                "dcterms:extent": "vi, 272, viip",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "1994",
+                "cinii:ncid": "BN11371531",
+                "cinii:ownerCount": "256",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00444831#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "宇都宮, 芳明"
+                            },
+                            {
+                                "@value": "ウツノミヤ, ヨシアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "1994.9"
+                ],
+                "cinii:note": [
+                    "文献案内: p[245]-270",
+                    "執筆: 田中伸司 ほか"
+                ],
+                "dc:subject": [
+                    "NDC8:150",
+                    "NDLC:H51"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%80%AB%E7%90%86%E5%AD%A6",
+                        "dc:title": "倫理学"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%80%AB%E7%90%86%E5%AD%A6",
+                        "dc:title": "倫理学"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784790705239"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB25313867": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB25313867.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB25313867#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB25313867.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "マルクス資本論の哲学"
+                    },
+                    {
+                        "@value": "マルクス シホンロン ノ テツガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "マルクス : 資本論の哲学"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "vi, 269p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2018",
+                "cinii:ncid": "BB25313867",
+                "cinii:ownerCount": "456",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2018.1"
+                ],
+                "dc:subject": [
+                    "NDC8:331.6",
+                    "NDC9:331.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%B3%87%E6%9C%AC%E8%AB%96",
+                        "dc:title": "資本論"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%B3%87%E6%9C%AC%E8%AB%96",
+                        "dc:title": "資本論"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Marx%2C+Karl%281818-1883%29",
+                        "dc:title": "Marx, Karl(1818-1883)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Marx%2C+Karl%2C+1818-1883.+Kapital",
+                        "dc:title": "Marx, Karl, 1818-1883. Kapital"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00076234#entity",
+                        "dc:title": "岩波新書, 新赤版 1696",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784004316961"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB1345093X": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB1345093X.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB1345093X#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB1345093X.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "マルクス資本論の思考"
+                    },
+                    {
+                        "@value": "マルクス シホンロン ノ シコウ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Karl Heinrich Marx",
+                    "マルクス : 資本論の思考"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "せりか書房"
+                ],
+                "dcterms:extent": "734, vp",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2013",
+                "cinii:ncid": "BB1345093X",
+                "cinii:ownerCount": "161",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2013.9"
+                ],
+                "cinii:note": [
+                    "参考文献: p714-730"
+                ],
+                "dc:subject": [
+                    "NDC8:331.6",
+                    "NDC9:331.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%B3%87%E6%9C%AC%E8%AB%96",
+                        "dc:title": "資本論"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%B3%87%E6%9C%AC%E8%AB%96",
+                        "dc:title": "資本論"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Marx%2C+Karl%2C+1818-1883",
+                        "dc:title": "Marx, Karl, 1818-1883"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Marx%2C+Karl%281818-1883%29",
+                        "dc:title": "Marx, Karl(1818-1883)"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784796703260"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB10652202": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB10652202.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB10652202#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB10652202.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "レヴィナス : 移ろいゆくものへの視線"
+                    },
+                    {
+                        "@value": "レヴィナス : ウツロイユク モノ エノ シセン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xviii, 300, 12p",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2012",
+                "cinii:ncid": "BB10652202",
+                "cinii:ownerCount": "48",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2012.10"
+                ],
+                "cinii:note": [
+                    "1999年6月刊の再刊"
+                ],
+                "dc:subject": [
+                    "NDC8:135.5",
+                    "NDC9:135.5"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2C+Emmanuel",
+                        "dc:title": "Levinas, Emmanuel"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2C+Emmanuel%281906-1995%29",
+                        "dc:title": "Levinas, Emmanuel(1906-1995)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=L%C3%A9vinas%2C+Emmanuel",
+                        "dc:title": "Lévinas, Emmanuel"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BB04225910#entity",
+                        "dc:title": "岩波人文書セレクション",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784000285551"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB00453505": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB00453505.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB00453505#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB00453505.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "日本哲学小史 : 近代100年の20篇"
+                    },
+                    {
+                        "@value": "ニホン テツガク ショウシ : キンダイ 100ネン ノ 20ヘン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "日本哲学小史 : 近代100年の20篇"
+                ],
+                "dc:creator": "熊野純彦編著",
+                "dc:publisher": [
+                    "中央公論新社"
+                ],
+                "dcterms:extent": "333p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2009",
+                "cinii:ncid": "BB00453505",
+                "cinii:ownerCount": "315",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2009.12"
+                ],
+                "cinii:note": [
+                    "関連年表: 巻末"
+                ],
+                "dc:subject": [
+                    "NDC8:121.6",
+                    "NDC9:121.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%97%A5%E6%9C%AC%E6%80%9D%E6%83%B3+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "日本思想 -- 歴史"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00119290#entity",
+                        "dc:title": "中公新書, 2036",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784121020369"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA91369084": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA91369084.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA91369084#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA91369084.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "和辻哲郎 : 文人哲学者の軌跡"
+                    },
+                    {
+                        "@value": "ワツジ テツロウ : ブンジン テツガクシャ ノ キセキ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "vi, 241, 5p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2009",
+                "cinii:ncid": "BA91369084",
+                "cinii:ownerCount": "491",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2009.9"
+                ],
+                "cinii:note": [
+                    "参考文献: p233-238",
+                    "略年譜: 巻末p4-5"
+                ],
+                "dc:subject": [
+                    "NDC9:121.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%92%8C%E8%BE%BB%2C+%E5%93%B2%E9%83%8E%281889-1960%29",
+                        "dc:title": "和辻, 哲郎(1889-1960)"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00076234#entity",
+                        "dc:title": "岩波新書, 新赤版 1206",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784004312062"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA90017809": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA90017809.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA90017809#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA90017809.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "現代哲学の名著 : 20世紀の20冊"
+                    },
+                    {
+                        "@value": "ゲンダイ テツガク ノ メイチョ : 20セイキ ノ 20サツ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦編",
+                "dc:publisher": [
+                    "中央公論新社"
+                ],
+                "dcterms:extent": "245p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2009",
+                "cinii:ncid": "BA90017809",
+                "cinii:ownerCount": "322",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2009.5"
+                ],
+                "cinii:note": [
+                    "テクストと参考文献: 各項目末",
+                    "関連年表: 巻末"
+                ],
+                "dc:subject": [
+                    "NDC9:100"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6",
+                        "dc:title": "哲学"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%9B%B3%E6%9B%B8%E8%A7%A3%E9%A1%8C",
+                        "dc:title": "図書解題"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00119290#entity",
+                        "dc:title": "中公新書, 1999",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784121019998"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA87754864": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA87754864.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA87754864#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA87754864.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "モラル/行為の哲学"
+                    },
+                    {
+                        "@value": "モラル コウイ ノ テツガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "モラル行為の哲学"
+                ],
+                "dc:creator": "[熊野純彦ほか執筆]",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xiii, 267p",
+                "cinii:size": "22cm",
+                "dc:language": "jpn",
+                "dc:date": "2008",
+                "cinii:ncid": "BA87754864",
+                "cinii:ownerCount": "371",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2008.11"
+                ],
+                "cinii:note": [
+                    "付 (8p ; 20cm) : 月報7",
+                    "論末に参考文献あり"
+                ],
+                "dc:subject": [
+                    "NDC8:108",
+                    "NDC9:108"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6",
+                        "dc:title": "哲学"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E9%81%93%E5%BE%B3",
+                        "dc:title": "道徳"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%A1%8C%E7%82%BA",
+                        "dc:title": "行為"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA85812438#entity",
+                        "dc:title": "岩波講座哲学 / 飯田隆 [ほか] 編集委員, 06",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784000112666"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA66763969": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA66763969.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA66763969#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA66763969.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "戦後思想の一断面 : 哲学者廣松渉の軌跡"
+                    },
+                    {
+                        "@value": "センゴ シソウ ノ イチダンメン : テツガクシャ ヒロマツ ワタル ノ キセキ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "戦後思想の一断面"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "ナカニシヤ出版"
+                ],
+                "dcterms:extent": "xiii, 270p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2004",
+                "cinii:ncid": "BA66763969",
+                "cinii:ownerCount": "150",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2004.4"
+                ],
+                "dc:subject": [
+                    "NDC8:121.6",
+                    "NDC9:121.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%BA%83%E6%9D%BE%2C+%E6%B8%89",
+                        "dc:title": "広松, 渉"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%BA%83%E6%9D%BE%2C+%E6%B8%89%281933-1994%29",
+                        "dc:title": "広松, 渉(1933-1994)"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:488848869X"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA59783139": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA59783139.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA59783139#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA59783139.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "カント : 世界の限界を経験することは可能か"
+                    },
+                    {
+                        "@value": "カント : セカイ ノ ゲンカイ オ ケイケン スル コト ワ カノウ カ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "日本放送出版協会"
+                ],
+                "dcterms:extent": "125p",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2002",
+                "cinii:ncid": "BA59783139",
+                "cinii:ownerCount": "255",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2002.11"
+                ],
+                "cinii:note": [
+                    "読書案内: p116-123"
+                ],
+                "dc:subject": [
+                    "NDC8:134.2",
+                    "NDC9:134.2"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Kant%2C+Immanuel%2C+1724-1804",
+                        "dc:title": "Kant, Immanuel, 1724-1804"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA59202043#entity",
+                        "dc:title": "シリーズ・哲学のエッセンス",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784140093030"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BN16005905": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BN16005905.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BN16005905#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BN16005905.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "カント哲学のコンテクスト"
+                    },
+                    {
+                        "@value": "カント テツガク ノ コンテクスト",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "宇都宮芳明, 熊野純彦, 新田孝彦編",
+                "dc:publisher": [
+                    "北海道大学図書刊行会"
+                ],
+                "dcterms:extent": "xi, 317, 5p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "1997",
+                "cinii:ncid": "BN16005905",
+                "cinii:ownerCount": "137",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08120414#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "新田, 孝彦"
+                            },
+                            {
+                                "@value": "ニッタ, タカヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00444831#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "宇都宮, 芳明"
+                            },
+                            {
+                                "@value": "ウツノミヤ, ヨシアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "1997.2"
+                ],
+                "cinii:note": [
+                    "執筆: 宇都宮芳明ほか",
+                    "文献: 章末",
+                    "巻末(5p): 人名索引"
+                ],
+                "dc:subject": [
+                    "NDC9:134.2",
+                    "NDC8:134.2"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Kant%2C+Immanuel%2C+1724-1804",
+                        "dc:title": "Kant, Immanuel, 1724-1804"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E3%83%89%E3%82%A4%E3%83%84%E5%93%B2%E5%AD%A6",
+                        "dc:title": "ドイツ哲学"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4832958119"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB23863765": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB23863765.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB23863765#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB23863765.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "レヴィナス : 移ろいゆくものへの視線"
+                    },
+                    {
+                        "@value": "レヴィナス : ウツロイユク モノ エノ シセン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xv, 342, 3p",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2017",
+                "cinii:ncid": "BB23863765",
+                "cinii:ownerCount": "103",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2017.6"
+                ],
+                "cinii:note": [
+                    "1999年6月岩波書店より刊行, 2012年10月岩波人文書セレクションとして刊行, 底本には人文書セレクション版を使用, 文庫化にあたり事項索引を割愛",
+                    "人名索引: 巻末p1-3"
+                ],
+                "dc:subject": [
+                    "NDC9:135.5"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Levinas%2C+Emmanuel",
+                        "dc:title": "Levinas, Emmanuel"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=L%C3%A9vinas%2C+Emmanuel%2C+1906-1995",
+                        "dc:title": "Lévinas, Emmanuel, 1906-1995"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA44753961#entity",
+                        "dc:title": "岩波現代文庫, 学術 ; 364",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784006003647"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB22842318": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB22842318.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB22842318#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB22842318.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "カント : 美と倫理とのはざまで"
+                    },
+                    {
+                        "@value": "カント : ビ ト リンリ トノ ハザマ デ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "美と倫理とのはざまで : カントの世界像をめぐって",
+                    "カント美と倫理とのはざまで"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "講談社"
+                ],
+                "dcterms:extent": "306p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2017",
+                "cinii:ncid": "BB22842318",
+                "cinii:ownerCount": "102",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2017.1"
+                ],
+                "cinii:note": [
+                    "「群像」2015年11月号-2016年11月号に連載された稿をまとめ, 改題したもの"
+                ],
+                "dc:subject": [
+                    "NDC9:134.2"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Kant%2C+Immanuel%2C+1724-1804",
+                        "dc:title": "Kant, Immanuel, 1724-1804"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%88%A4%E6%96%AD%E5%8A%9B%E6%89%B9%E5%88%A4",
+                        "dc:title": "判断力批判"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784062203944"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB05720391": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB05720391.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB05720391#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB05720391.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "近代哲学の名著 : デカルトからマルクスまでの24冊"
+                    },
+                    {
+                        "@value": "キンダイ テツガク ノ メイチョ : デカルト カラ マルクス マデノ 24サツ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦編",
+                "dc:publisher": [
+                    "中央公論新社"
+                ],
+                "dcterms:extent": "297p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2011",
+                "cinii:ncid": "BB05720391",
+                "cinii:ownerCount": "309",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2011.5"
+                ],
+                "cinii:note": [
+                    "テクストと参考文献: 各項目末",
+                    "関連年表: 巻末",
+                    "3部作 (第1作「現代哲学の名著 : 20世紀の20冊」, 第2作「日本哲学小史 : 近代100年の20篇」) の第3作"
+                ],
+                "dc:subject": [
+                    "NDC9:133"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E8%BF%91%E4%BB%A3",
+                        "dc:title": "哲学 -- 歴史 -- 近代"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%9B%B3%E6%9B%B8%E8%A7%A3%E9%A1%8C",
+                        "dc:title": "図書解題"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00119290#entity",
+                        "dc:title": "中公新書, 2113",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784121021137"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB04265096": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB04265096.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB04265096#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB04265096.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "埴谷雄高--夢みるカント"
+                    },
+                    {
+                        "@value": "ハニヤ ユタカ ユメミル カント",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "埴谷雄高 : 夢みるカント",
+                    "埴谷雄高夢みるカント"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "講談社"
+                ],
+                "dcterms:extent": "298p",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2010",
+                "cinii:ncid": "BB04265096",
+                "cinii:ownerCount": "97",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2010.11"
+                ],
+                "cinii:note": [
+                    "埴谷雄高年譜: p284-290"
+                ],
+                "dc:subject": [
+                    "NDC8:910.268",
+                    "NDC9:913.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%9F%B4%E8%B0%B7%2C+%E9%9B%84%E9%AB%98",
+                        "dc:title": "埴谷, 雄高"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E3%82%AB%E3%83%B3%E3%83%88%2C+%E3%82%A4%E3%83%9E%E3%83%8C%E3%82%A8%E3%83%AB",
+                        "dc:title": "カント, イマヌエル"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%AD%BB%E9%9C%8A",
+                        "dc:title": "死霊"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Kant%2C+Immanuel%281724-1804%29",
+                        "dc:title": "Kant, Immanuel(1724-1804)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%9F%B4%E8%B0%B7%2C+%E9%9B%84%E9%AB%98%281910-1997%29",
+                        "dc:title": "埴谷, 雄高(1910-1997)"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA82447493#entity",
+                        "dc:title": "再発見日本の哲学",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784062787635"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA91329079": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA91329079.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA91329079#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA91329079.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "廣松渉哲学論集"
+                    },
+                    {
+                        "@value": "ヒロマツ ワタル テツガク ロンシュウ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "廣松渉著 ; 熊野純彦編",
+                "dc:publisher": [
+                    "平凡社"
+                ],
+                "dcterms:extent": "582p",
+                "cinii:size": "16cm",
+                "dc:language": "jpn",
+                "dc:date": "2009",
+                "cinii:ncid": "BA91329079",
+                "cinii:ownerCount": "115",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00103670#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "廣松, 渉"
+                            },
+                            {
+                                "@value": "ヒロマツ, ワタル",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2009.9"
+                ],
+                "dc:subject": [
+                    "NDC8:104",
+                    "NDC9:104",
+                    "NDC9:121.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6",
+                        "dc:title": "哲学"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%BA%83%E6%9D%BE%2C+%E6%B8%89%281933-1994%29",
+                        "dc:title": "広松, 渉(1933-1994)"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN09250512#entity",
+                        "dc:title": "平凡社ライブラリー, 678",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784582766783"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA89413241": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA89413241.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA89413241#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA89413241.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "死と他界が照らす生"
+                    },
+                    {
+                        "@value": "シ ト タカイ ガ テラス セイ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦, 下田正弘編",
+                "dc:publisher": [
+                    "東京大学大学院人文社会系研究科"
+                ],
+                "dcterms:extent": "ix, 269p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2008",
+                "cinii:ncid": "BA89413241",
+                "cinii:ownerCount": "6",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA07532303#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "下田, 正弘"
+                            },
+                            {
+                                "@value": "シモダ, マサヒロ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2008.12"
+                ],
+                "cinii:note": [
+                    "文献: 各章末"
+                ],
+                "dc:subject": [
+                    "NDC8:114.2",
+                    "NDC9:114.2",
+                    "NDLC:H45"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%94%9F%E3%81%A8%E6%AD%BB",
+                        "dc:title": "生と死"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%94%9F%E6%AD%BB",
+                        "dc:title": "生死"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA86640112#entity",
+                        "dc:title": "死生学 / [島薗進, 竹内整一, 小佐野重利編集代表], 2",
+                        "@type": "bibo:Book"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA88342716": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA88342716.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA88342716#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA88342716.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "死と他界が照らす生"
+                    },
+                    {
+                        "@value": "シ ト タカイ ガ テラス セイ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Life as seen through death and the afterlife"
+                ],
+                "dc:creator": "熊野純彦, 下田正弘編",
+                "dc:publisher": [
+                    "東京大学出版会"
+                ],
+                "dcterms:extent": "ix, 269p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2008",
+                "cinii:ncid": "BA88342716",
+                "cinii:ownerCount": "418",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA07532303#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "下田, 正弘"
+                            },
+                            {
+                                "@value": "シモダ, マサヒロ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2008.12"
+                ],
+                "cinii:note": [
+                    "欧文タイトルは標題紙裏による",
+                    "文献: 各章末"
+                ],
+                "dc:subject": [
+                    "NDC8:114.2",
+                    "NDC9:114.2",
+                    "NDLC:H45"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%94%9F%E3%81%A8%E6%AD%BB",
+                        "dc:title": "生と死"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%AE%97%E6%95%99",
+                        "dc:title": "宗教"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%94%9F%E6%AD%BB",
+                        "dc:title": "生死"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E4%BB%96%E7%95%8C%E8%A6%B3%E5%BF%B5",
+                        "dc:title": "他界観念"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA85882579#entity",
+                        "dc:title": "死生学 / 島薗進, 竹内整一, 小佐野重利責任編集, 2",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784130141222"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA79780767": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA79780767.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA79780767#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA79780767.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "悪と暴力の倫理学"
+                    },
+                    {
+                        "@value": "アク ト ボウリョク ノ リンリガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦, 麻生博之編",
+                "dc:publisher": [
+                    "ナカニシヤ出版"
+                ],
+                "dcterms:extent": "xiii, 273p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2006",
+                "cinii:ncid": "BA79780767",
+                "cinii:ownerCount": "173",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA15424124#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "麻生, 博之"
+                            },
+                            {
+                                "@value": "アソウ, ヒロユキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2006.12"
+                ],
+                "cinii:note": [
+                    "参考文献: 章末"
+                ],
+                "dc:subject": [
+                    "NDC9:158"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%96%84%E3%81%A8%E6%82%AA",
+                        "dc:title": "善と悪"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%9A%B4%E5%8A%9B",
+                        "dc:title": "暴力"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA34950434#entity",
+                        "dc:title": "叢書倫理学のフロンティア, 18",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4779500982"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA78401229": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA78401229.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA78401229#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA78401229.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "近代から現代へ"
+                    },
+                    {
+                        "@value": "キンダイ カラ ゲンダイ エ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "viii, 261, 31p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2006",
+                "cinii:ncid": "BA78401229",
+                "cinii:ownerCount": "516",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2006.9"
+                ],
+                "cinii:note": [
+                    "邦語文献一覧: 巻末p22-25",
+                    "関連略年表: 巻末p26-31"
+                ],
+                "dc:subject": [
+                    "NDC8:130.2",
+                    "NDC9:130.2",
+                    "NDC9:133",
+                    "NDLC:HC1",
+                    "NDLC:HD1"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E8%BF%91%E4%B8%96",
+                        "dc:title": "哲学 -- 歴史 -- 近世"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E8%BF%91%E4%BB%A3",
+                        "dc:title": "哲学 -- 歴史 -- 近代"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%A5%BF%E6%B4%8B%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "西洋哲学 -- 歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%BF%91%E4%BB%A3%E5%93%B2%E5%AD%A6",
+                        "dc:title": "近代哲学"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00076234#entity",
+                        "dc:title": "岩波新書, 新赤版 1008 . 西洋哲学史||セイヨウ テツガクシ",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784004310082"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA76504173": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA76504173.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA76504173#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA76504173.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "古代から中世へ"
+                    },
+                    {
+                        "@value": "コダイ カラ チュウセイ エ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "ix, 257, 33p",
+                "cinii:size": "18cm",
+                "dc:language": "jpn",
+                "dc:date": "2006",
+                "cinii:ncid": "BA76504173",
+                "cinii:ownerCount": "534",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2006.4"
+                ],
+                "cinii:note": [
+                    "邦語文献一覧: 巻末p24-27",
+                    "関連略年表: 巻末p28-33"
+                ],
+                "dc:subject": [
+                    "NDC8:130.2",
+                    "NDC9:130.2",
+                    "NDC9:131",
+                    "NDLC:HC1"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "哲学 -- 歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%A5%BF%E6%B4%8B%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "西洋哲学 -- 歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E5%8F%A4%E4%BB%A3",
+                        "dc:title": "哲学 -- 歴史 -- 古代"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E4%B8%AD%E4%B8%96",
+                        "dc:title": "哲学 -- 歴史 -- 中世"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00076234#entity",
+                        "dc:title": "岩波新書, 新赤版 1007 . 西洋哲学史||セイヨウ テツガクシ",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784004310075"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA74248753": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA74248753.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA74248753#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA74248753.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "全体性と無限"
+                    },
+                    {
+                        "@value": "ゼンタイセイ ト ムゲン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Totalité et infini : essai sur l'extériorité"
+                ],
+                "dc:creator": "レヴィナス著 ; 熊野純彦訳",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "2冊",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2005",
+                "cinii:ncid": "BA74248753",
+                "cinii:ownerCount": "290",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00301721#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Lévinas, Emmanuel"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2005.11-2006.1"
+                ],
+                "cinii:note": [
+                    "原著 (Martinus Nijhoff, 1961) の全訳",
+                    "標題紙・表紙のシリーズ番号表示: 上 33-691-1, 下 33-691-2",
+                    "背表紙のシリーズ番号表示: 上 青691-1, 下 青691-2"
+                ],
+                "dc:subject": [
+                    "NDC9:135.5"
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00015783#entity",
+                        "dc:title": "岩波文庫, 青(33)-691-1-2",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4003369114",
+                        "dc:title": "上"
+                    },
+                    {
+                        "@id": "urn:isbn:4003369122",
+                        "dc:title": "下"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA73574605": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA73574605.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA73574605#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA73574605.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "メルロ=ポンティ : 哲学者は詩人でありうるか?"
+                    },
+                    {
+                        "@value": "メルロ ポンティ : テツガクシャ ワ シジン デ アリウルカ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "メルロポンティ : 哲学者は詩人でありうるか"
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "日本放送出版協会"
+                ],
+                "dcterms:extent": "118p",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2005",
+                "cinii:ncid": "BA73574605",
+                "cinii:ownerCount": "197",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2005.9"
+                ],
+                "cinii:note": [
+                    "メルロ=ポンティ小伝: p108-109",
+                    "読書案内: p110-115"
+                ],
+                "dc:subject": [
+                    "NDC8:135.5",
+                    "NDC9:135.55"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Merleau-Ponty%2C+Maurice%2C+1908-1961",
+                        "dc:title": "Merleau-Ponty, Maurice, 1908-1961"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA59202043#entity",
+                        "dc:title": "シリーズ・哲学のエッセンス",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4140093250"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA6947153X": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA6947153X.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA6947153X#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA6947153X.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "差異のエチカ"
+                    },
+                    {
+                        "@value": "サイ ノ エチカ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦, 吉澤夏子編",
+                "dc:publisher": [
+                    "ナカニシヤ出版"
+                ],
+                "dcterms:extent": "xiii, 327p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2004",
+                "cinii:ncid": "BA6947153X",
+                "cinii:ownerCount": "188",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA0762384X#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "吉澤, 夏子"
+                            },
+                            {
+                                "@value": "ヨシザワ, ナツコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2004.11"
+                ],
+                "cinii:note": [
+                    "文献案内: 各章末"
+                ],
+                "dc:subject": [
+                    "NDC8:150.4",
+                    "NDC9:150.4"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%80%AB%E7%90%86%E5%AD%A6",
+                        "dc:title": "倫理学"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA34950434#entity",
+                        "dc:title": "叢書倫理学のフロンティア, 15",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4888488878"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB19683191": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB19683191.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB19683191#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB19683191.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "埴谷雄高--夢みるカント"
+                    },
+                    {
+                        "@value": "ハニヤ ユタカ--ユメミル カント",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "埴谷雄高 : 夢みるカント",
+                    "埴谷雄高夢みるカント"
+                ],
+                "dc:creator": "熊野純彦 [著]",
+                "dc:publisher": [
+                    "講談社"
+                ],
+                "dcterms:extent": "337p",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2015",
+                "cinii:ncid": "BB19683191",
+                "cinii:ownerCount": "150",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2015.10"
+                ],
+                "cinii:note": [
+                    "註: p294-313",
+                    "埴谷雄高年譜: p316-323",
+                    "読書案内: p324-331",
+                    "叢書番号はブックジャケットによる",
+                    "原本は「再発見日本の哲学 / 菅野覚明, 熊野純彦責任編集」の1冊として2010年に講談社より刊行"
+                ],
+                "dc:subject": [
+                    "NDC8:910.268",
+                    "NDC9:913.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%9F%B4%E8%B0%B7%2C+%E9%9B%84%E9%AB%98",
+                        "dc:title": "埴谷, 雄高"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E3%82%AB%E3%83%B3%E3%83%88%2C+%E3%82%A4%E3%83%9E%E3%83%8C%E3%82%A8%E3%83%AB",
+                        "dc:title": "カント, イマヌエル"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%AD%BB%E9%9C%8A",
+                        "dc:title": "死霊"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Kant%2C+Immanuel%2C+1724-1804",
+                        "dc:title": "Kant, Immanuel, 1724-1804"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00025051#entity",
+                        "dc:title": "講談社学術文庫, [2312] . 再発見日本の哲学||サイハッケン ニホン ノ テツガク",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784062923125"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB29916886": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB29916886.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB29916886#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB29916886.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "源氏物語=反復と模倣"
+                    },
+                    {
+                        "@value": "ゲンジ モノガタリ ハンプク ト モホウ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "熊野純彦著",
+                "dc:publisher": [
+                    "作品社"
+                ],
+                "dcterms:extent": "114p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2020",
+                "cinii:ncid": "BB29916886",
+                "cinii:ownerCount": "11",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2020.3"
+                ],
+                "cinii:note": [
+                    "初出: 反復と模倣 : 源氏物語・回帰する時間の悲劇によせて: 『季刊日本思想史』2012年 第80号 ぺりかん社. 源氏物語・小考 : 和辻, 小林, 宣長: 『図書』2018年12月号 岩波書店"
+                ],
+                "dc:subject": [
+                    "NDC10:913.36",
+                    "NDLC:KG59"
+                ],
+                "cinii:contentOfWorks": [
+                    "反復と模倣 : 源氏物語・回帰する時間の悲劇によせて",
+                    "源氏物語・小考 : 和辻, 小林, 宣長"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E",
+                        "dc:title": "源氏物語"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%B4%AB%E5%BC%8F%E9%83%A8%28%E5%B9%B3%E5%AE%89%E4%B8%AD%E6%9C%9F%29",
+                        "dc:title": "紫式部(平安中期)"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784861827792"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB23502891": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB23502891.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB23502891#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB23502891.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "高等学校新倫理 : Ethics 人間存在への問い"
+                    },
+                    {
+                        "@value": "コウトウ ガッコウ シン リンリ : Ethics ニンゲン ソンザイ エノ トイ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "新倫理 : 高等学校"
+                ],
+                "dc:creator": "菅野覚明 [ほか] 著",
+                "dc:publisher": [
+                    "清水書院"
+                ],
+                "dcterms:extent": "224p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2017",
+                "cinii:ncid": "BB23502891",
+                "prism:edition": "新訂版",
+                "cinii:ownerCount": "38",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA05298260#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "菅野, 覚明"
+                            },
+                            {
+                                "@value": "カンノ, カクミョウ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00938795#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "山田, 忠彰"
+                            },
+                            {
+                                "@value": "ヤマダ, タダアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2017.2"
+                ],
+                "cinii:note": [
+                    "平成28年3月18日文部科学省検定済教科書 高等学校公民科",
+                    "標題紙, 表紙には「監修/菅野覚明, 熊野純彦, 山田忠彰」とあり",
+                    "前後見返し: 倫理思想史年表"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%95%99%E7%A7%91%E6%9B%B8+--+%E6%97%A5%E6%9C%AC",
+                        "dc:title": "教科書 -- 日本"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+                        "dc:title": "高等学校"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%A4%BE%E4%BC%9A%E7%A7%91",
+                        "dc:title": "社会科"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784389600372"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB21747049": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB21747049.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB21747049#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB21747049.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "高等学校新倫理 : Ethics 人間存在への問い"
+                    },
+                    {
+                        "@value": "コウトウ ガッコウ シン リンリ : Ethics ニンゲン ソンザイ エノ トイ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "新倫理 : 高等学校"
+                ],
+                "dc:creator": "菅野覚明 [ほか] 著",
+                "dc:publisher": [
+                    "清水書院"
+                ],
+                "dcterms:extent": "224p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2016",
+                "cinii:ncid": "BB21747049",
+                "prism:edition": "新訂版, [見本版]",
+                "cinii:ownerCount": "2",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA05298260#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "菅野, 覚明"
+                            },
+                            {
+                                "@value": "カンノ, カクミョウ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00938795#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "山田, 忠彰"
+                            },
+                            {
+                                "@value": "ヤマダ, タダアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "[2016]"
+                ],
+                "cinii:note": [
+                    "平成28年3月18日文部科学省検定済教科書 高等学校公民科",
+                    "標題紙, 表紙には「監修/菅野覚明, 熊野純彦, 山田忠彰」とあり",
+                    "前後見返し: 倫理思想史年表",
+                    "平成29年度用"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%95%99%E7%A7%91%E6%9B%B8+--+%E6%97%A5%E6%9C%AC",
+                        "dc:title": "教科書 -- 日本"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+                        "dc:title": "高等学校"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%A4%BE%E4%BC%9A%E7%A7%91",
+                        "dc:title": "社会科"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784389600372"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB19516087": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB19516087.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB19516087#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB19516087.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "物質と記憶"
+                    },
+                    {
+                        "@value": "ブッシツ ト キオク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Matière et mémoire : essai sur la relation du corps à l'esprit"
+                ],
+                "dc:creator": "ベルクソン著 ; 熊野純彦訳",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "505, 19p",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2015",
+                "cinii:ncid": "BB19516087",
+                "cinii:ownerCount": "230",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00593092#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Bergson, Henri"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2015.9"
+                ],
+                "cinii:note": [
+                    "底本にはPUF版 (1939年) を使用し、場合によってはベルクソン生誕百年記念版全集テクストならびに2008年版を参照"
+                ],
+                "dc:subject": [
+                    "NDC8:135.4",
+                    "NDC9:135.4"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Bergson%2C+Henri+Louis%281859-1941%29",
+                        "dc:title": "Bergson, Henri Louis(1859-1941)"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00015783#entity",
+                        "dc:title": "岩波文庫, 青(33)-645-8",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784003890134"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB18688688": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB18688688.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB18688688#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB18688688.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "判断力批判"
+                    },
+                    {
+                        "@value": "ハンダンリョク ヒハン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Kritik der Urteilskraft"
+                ],
+                "dc:creator": "イマヌエル・カント [著] ; 熊野純彦訳",
+                "dc:publisher": [
+                    "作品社"
+                ],
+                "dcterms:extent": "viii, 590p",
+                "cinii:size": "22cm",
+                "dc:language": "jpn",
+                "dc:date": "2015",
+                "cinii:ncid": "BB18688688",
+                "cinii:ownerCount": "127",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00159992#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Kant, Immanuel"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2015.6"
+                ],
+                "dc:subject": [
+                    "NDC8:134.2",
+                    "NDC9:134.2"
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784861825309"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB12271174": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB12271174.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB12271174#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB12271174.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "高等学校新倫理 : Ethics よく生きること"
+                    },
+                    {
+                        "@value": "コウトウ ガッコウ シン リンリ : Ethics ヨク イキル コト",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "新倫理 : 高等学校",
+                    "高等学校新倫理最新版"
+                ],
+                "dc:creator": "菅野覚明 [ほか] 著",
+                "dc:publisher": [
+                    "清水書院"
+                ],
+                "dcterms:extent": "216p, 図版",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2013",
+                "cinii:ncid": "BB12271174",
+                "prism:edition": "最新版",
+                "cinii:ownerCount": "57",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA05298260#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "菅野, 覚明"
+                            },
+                            {
+                                "@value": "カンノ, カクミョウ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00938795#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "山田, 忠彰"
+                            },
+                            {
+                                "@value": "ヤマダ, タダアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2013.2"
+                ],
+                "cinii:note": [
+                    "平成24年3月27日文部科学省検定済教科書 高等学校公民科",
+                    "標題紙, 表紙には「監修/菅野覚明, 熊野純彦, 山田忠彰」とあり",
+                    "前後見返し: 倫理思想史年表"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%95%99%E7%A7%91%E6%9B%B8+--+%E6%97%A5%E6%9C%AC",
+                        "dc:title": "教科書 -- 日本"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+                        "dc:title": "高等学校"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%A4%BE%E4%BC%9A%E7%A7%91",
+                        "dc:title": "社会科"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784389600259"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB08026235": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB08026235.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB08026235#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB08026235.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "純粋理性批判"
+                    },
+                    {
+                        "@value": "ジュンスイ リセイ ヒハン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Kritik der reinen Vernunft"
+                ],
+                "dc:creator": "イマヌエル・カント [著] ; 熊野純彦訳",
+                "dc:publisher": [
+                    "作品社"
+                ],
+                "dcterms:extent": "xiii, 863p",
+                "cinii:size": "22cm",
+                "dc:language": "jpn",
+                "dc:date": "2012",
+                "cinii:ncid": "BB08026235",
+                "cinii:ownerCount": "184",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00159992#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Kant, Immanuel"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2012.1"
+                ],
+                "cinii:note": [
+                    "著者の記述は奥付による"
+                ],
+                "dc:subject": [
+                    "NDC8:134.2",
+                    "NDC9:134.2"
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784861823589"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA8756010X": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA8756010X.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA8756010X#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA8756010X.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "共同存在の現象学"
+                    },
+                    {
+                        "@value": "キョウドウ ソンザイ ノ ゲンショウガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Das Individuum in der Rolle des Mitmenschen"
+                ],
+                "dc:creator": "レーヴィット著 ; 熊野純彦訳",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "508, 3p",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2008",
+                "cinii:ncid": "BA8756010X",
+                "cinii:ownerCount": "251",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA0040249X#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Löwith, Karl"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2008.10"
+                ],
+                "cinii:note": [
+                    "底本の出版事項: Drei Masken, 1928",
+                    "『レーヴィット著作集』第1巻 (Sämtliche Schriften, Bd.1, Stuttgart : J.B. Metzlersche Verlagsbuchhandlung, 1981) を照合に使用"
+                ],
+                "dc:subject": [
+                    "NDC8:134.9",
+                    "NDC9:134.9",
+                    "NDLC:HD76"
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00015783#entity",
+                        "dc:title": "岩波文庫, 青(33)-693-1",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784003369319"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA86284517": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA86284517.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA86284517#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA86284517.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "「異」の解釈学 : 熊野純彦批判"
+                    },
+                    {
+                        "@value": "イ ノ カイシャクガク : クマノ スミヒコ ヒハン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "異の解釈学 : 熊野純彦批判"
+                ],
+                "dc:creator": "黒田寛一著",
+                "dc:publisher": [
+                    "こぶし書房"
+                ],
+                "dcterms:extent": "187p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2008",
+                "cinii:ncid": "BA86284517",
+                "cinii:ownerCount": "21",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA01368342#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "黒田, 寛一"
+                            },
+                            {
+                                "@value": "クロダ, ヒロカズ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2008.6"
+                ],
+                "dc:subject": [
+                    "NDC8:121.6",
+                    "NDC9:121.6"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%86%8A%E9%87%8E%2C+%E7%B4%94%E5%BD%A6",
+                        "dc:title": "熊野, 純彦"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784875592273"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB08886357": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB08886357.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB08886357#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB08886357.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "「哲学の現代」への回り道"
+                    },
+                    {
+                        "@value": "テツガク ノ ゲンダイ エノ マワリミチ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "哲学の現代への回り道"
+                ],
+                "dc:creator": "神崎繁, 熊野純彦, 鈴木泉編",
+                "dc:publisher": [
+                    "講談社"
+                ],
+                "dcterms:extent": "366p",
+                "cinii:size": "19cm",
+                "dc:language": "jpn",
+                "dc:date": "2012",
+                "cinii:ncid": "BB08886357",
+                "cinii:ownerCount": "240",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA11930693#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "神崎, 繁"
+                            },
+                            {
+                                "@value": "カンザキ, シゲル",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA16900532#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "鈴木, 泉(哲学)"
+                            },
+                            {
+                                "@value": "スズキ, イズミ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2012.4"
+                ],
+                "cinii:note": [
+                    "参考文献: 各章末"
+                ],
+                "dc:subject": [
+                    "NDC8:130.2",
+                    "NDC9:130.2"
+                ],
+                "cinii:contentOfWorks": [
+                    "ふたたび、哲学と哲学史をめぐって / 熊野純彦[著]",
+                    "オッカムからヒュームへ / 乗立雄輝[著]",
+                    "ライプニッツからバウムガルテンへ : 美的=感性的人間の誕生 / 小田部胤久[著]",
+                    "ふたつのDialektikをめぐって : カントの弁証論とヘーゲルの弁証法 / 熊野純彦[著]",
+                    "同一哲学から積極哲学へ : シェリングの思索の軌跡 / 滝口清栄[著]",
+                    "思考と動くもの : 「フランス・スピリチュアリスム」をめぐって / 杉山直樹 [著]"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "哲学 -- 歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2+--+%E8%BF%91%E4%BB%A3",
+                        "dc:title": "哲学 -- 歴史 -- 近代"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%A5%BF%E6%B4%8B%E5%93%B2%E5%AD%A6+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "西洋哲学 -- 歴史"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN10277720#entity",
+                        "dc:title": "講談社選書メチエ, 514 . 西洋哲学史||セイヨウ テツガクシ ; 4",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784062585170"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA81552040": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA81552040.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA81552040#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA81552040.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "高等学校新倫理 : 人間とは何か : 思索のために"
+                    },
+                    {
+                        "@value": "コウトウ ガッコウ シンリンリ : ニンゲン トワ ナニ カ : シサク ノ タメ ニ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "新倫理 : 高等学校"
+                ],
+                "dc:creator": "菅野覚明 [ほか] 著",
+                "dc:publisher": [
+                    "清水書院"
+                ],
+                "dcterms:extent": "208p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2007",
+                "cinii:ncid": "BA81552040",
+                "prism:edition": "改訂版",
+                "cinii:ownerCount": "50",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA05298260#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "菅野, 覚明"
+                            },
+                            {
+                                "@value": "カンノ, カクミョウ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00938795#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "山田, 忠彰"
+                            },
+                            {
+                                "@value": "ヤマダ, タダアキ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2007.2"
+                ],
+                "cinii:note": [
+                    "平成18年3月20日文部科学省検定済教科書 高等学校公民科",
+                    "教科書の記号・番号: 35・清水・倫理013"
+                ],
+                "dc:subject": [
+                    "NDC8:375.9"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%95%99%E7%A7%91%E6%9B%B8+--+%E6%97%A5%E6%9C%AC",
+                        "dc:title": "教科書 -- 日本"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+                        "dc:title": "高等学校"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%A4%BE%E4%BC%9A%E7%A7%91",
+                        "dc:title": "社会科"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784389600129"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA57301791": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA57301791.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA57301791#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA57301791.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "歴史と時間"
+                    },
+                    {
+                        "@value": "レキシ ト ジカン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "月本昭男 [ほか] 執筆",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "xi, 268p",
+                "cinii:size": "21cm",
+                "dc:language": "jpn",
+                "dc:date": "2002",
+                "cinii:ncid": "BA57301791",
+                "cinii:ownerCount": "283",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA04921637#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "月本, 昭男"
+                            },
+                            {
+                                "@value": "ツキモト, アキオ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2002.6"
+                ],
+                "cinii:note": [
+                    "その他の執筆者: 平勢隆郎, 木庭顕, 島薗進, 佐藤正幸, 熊野純彦, 野家啓一",
+                    "読書案内: p[239]-268"
+                ],
+                "dc:subject": [
+                    "NDC8:204",
+                    "NDC9:204"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%AD%B4%E5%8F%B2%E5%AD%A6+--+%E8%AB%96%E6%96%87%E9%9B%86",
+                        "dc:title": "歴史学 -- 論文集"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%B9%B4%E4%BB%A3%E5%AD%A6",
+                        "dc:title": "年代学"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%99%82%E9%96%93%E3%83%BB%E7%A9%BA%E9%96%93",
+                        "dc:title": "時間・空間"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BA54350837#entity",
+                        "dc:title": "歴史を問う / 上村忠男 [ほか] 編集委員, 2",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4000267221"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BA5688405X": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BA5688405X.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BA5688405X#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BA5688405X.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "東欧激変と社会主義"
+                    },
+                    {
+                        "@value": "トウオウ ゲキヘン ト シャカイ シュギ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "廣松渉著",
+                "dc:publisher": [
+                    "実践社"
+                ],
+                "dcterms:extent": "273p",
+                "cinii:size": "20cm",
+                "dc:language": "jpn",
+                "dc:date": "2002",
+                "cinii:ncid": "BA5688405X",
+                "prism:edition": "新訂増補版",
+                "cinii:ownerCount": "37",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00103670#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "廣松, 渉"
+                            },
+                            {
+                                "@value": "ヒロマツ, ワタル",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2002.4"
+                ],
+                "cinii:note": [
+                    "発行者:『東欧激変と社会主義』刊行委員会",
+                    "初版 (1994年7月刊) に『廣松渉私記』(熊野純彦著) を追加収録したもの"
+                ],
+                "dc:subject": [
+                    "NDC8:309.3",
+                    "NDC9:309.3",
+                    "DC20:335.43"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9",
+                        "dc:title": "社会主義"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:4916043553"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB2745621X": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB2745621X.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB2745621X#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB2745621X.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "和辻哲郎与日本哲学"
+                    },
+                    {
+                        "@value": "ワツジ テツロウ ヨ ニホン テツガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "(日) 熊野纯彦著 ; 龚颖译",
+                "dc:publisher": [
+                    "生活・讀書・新知三聯書店"
+                ],
+                "dcterms:extent": "20, 380p",
+                "cinii:size": "20cm",
+                "dc:language": "chi",
+                "dc:date": "2018",
+                "cinii:ncid": "BB2745621X",
+                "cinii:ownerCount": "3",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA18909006#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "龔, 穎"
+                            },
+                            {
+                                "@value": "キョウ, エイ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00121264#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "和辻, 哲郎"
+                            },
+                            {
+                                "@value": "ワツジ, テツロウ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2018.10"
+                ],
+                "cinii:note": [
+                    "第1部「文人哲学家和辻哲郎」和辻哲郎:文人哲学者の軌跡, 岩波書店, 2009年刊の訳. 第2部「近现代日本的哲学与思想--以京都学派为中心」日本哲学小史:近代100年の20篇, 中央公論新社, 2009年刊の訳.",
+                    "附录相关大事年表: p347-378"
+                ],
+                "dc:subject": [
+                    "NDC9:121.6",
+                    "CLC:B313"
+                ],
+                "cinii:contentOfWorks": [
+                    "文人哲学家和辻哲郎 = 和辻哲郎 : 文人哲学者の軌跡",
+                    "近现代日本的哲学与思想--以京都学派为中心 = 日本哲学小史 : 近代100年の20篇"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E6%97%A5%E6%9C%AC%E6%80%9D%E6%83%B3+--+%E6%AD%B4%E5%8F%B2",
+                        "dc:title": "日本思想 -- 歴史"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%92%8C%E8%BE%BB%2C+%E5%93%B2%E9%83%8E%281889-1960%29",
+                        "dc:title": "和辻, 哲郎(1889-1960)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%93%B2%E5%AD%A6%E8%80%85+--+%E6%97%A5%E6%9C%AC",
+                        "dc:title": "哲学者 -- 日本"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9787108063182"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB27369432": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB27369432.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB27369432#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB27369432.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "精神現象学"
+                    },
+                    {
+                        "@value": "セイシン ゲンショウガク",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Phänomenologie des Geistes"
+                ],
+                "dc:creator": "G.W.F. ヘーゲル著 ; 熊野純彦訳",
+                "dc:publisher": [
+                    "筑摩書房"
+                ],
+                "dcterms:extent": "2冊",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2018",
+                "cinii:ncid": "BB27369432",
+                "cinii:ownerCount": "116",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00157465#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Hegel, Georg Wilhelm Friedrich"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2018.12"
+                ],
+                "cinii:note": [
+                    "シリーズ番号はブックジャケットによる",
+                    "原著(1807)を訳し下ろし、底本にはホフマイスター版を使用"
+                ],
+                "dc:subject": [
+                    "NDC9:134.4",
+                    "NDC10:134.4"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Hegel%2C+Georg+Wilhelm+Friedrich%281770-1831%29",
+                        "dc:title": "Hegel, Georg Wilhelm Friedrich(1770-1831)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Hegel%2C+Georg+Wilhelm+Friedrich%2C+1770-1831",
+                        "dc:title": "Hegel, Georg Wilhelm Friedrich, 1770-1831"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN07814606#entity",
+                        "dc:title": "ちくま学芸文庫, [へ-10-1], [へ-10-2]",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784480097019",
+                        "dc:title": "上"
+                    },
+                    {
+                        "@id": "urn:isbn:9784480097026",
+                        "dc:title": "下"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB12407017": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB12407017.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB12407017#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB12407017.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "実践理性批判 ; 倫理の形而上学の基礎づけ"
+                    },
+                    {
+                        "@value": "ジッセン リセイ ヒハン ; リンリ ノ ケイジジョウガク ノ キソズケ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Kritik der praktischen Vernunft",
+                    "Grundlegung zur Metaphysik der Sitten"
+                ],
+                "dc:creator": "カント [著] ; 熊野純彦訳",
+                "dc:publisher": [
+                    "作品社"
+                ],
+                "dcterms:extent": "iv, 386p",
+                "cinii:size": "22cm",
+                "dc:language": "jpn",
+                "dc:date": "2013",
+                "cinii:ncid": "BB12407017",
+                "cinii:ownerCount": "164",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00159992#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Kant, Immanuel"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2013.5"
+                ],
+                "cinii:note": [
+                    "底本: 『実践理性批判』アカデミー版全集第5巻所収, 『倫理の形而上学の基礎づけ』同第4巻所収",
+                    "「両者の対照の便を図って、『倫理の形而上学の基礎づけ』は、『実践理性批判』第一部第一篇とならべて訳出し、左頁に教科書体で印刷」 (piv「凡例」)"
+                ],
+                "dc:subject": [
+                    "NDC8:134.2",
+                    "NDC9:134.2"
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784861824364"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB12218364": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB12218364.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB12218364#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB12218364.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "存在と時間"
+                    },
+                    {
+                        "@value": "ソンザイ ト ジカン",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dcterms:alternative": [
+                    "Sein und Zeit"
+                ],
+                "dc:creator": "ハイデガー著 ; 熊野純彦訳",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "4冊",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2013",
+                "cinii:ncid": "BB12218364",
+                "cinii:ownerCount": "295",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00162523#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "Heidegger, Martin"
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA08656979#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "熊野, 純彦"
+                            },
+                            {
+                                "@value": "クマノ, スミヒコ",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2013"
+                ],
+                "cinii:note": [
+                    "「M. Heidegger, Sein und Zeit. 1. Aufl. 1927」の全訳",
+                    "底本: 原著第17版 (M. Niemeyer, 1993)",
+                    "引用文献: 3: p549-551",
+                    "文献索引: 4: 巻末p39-47"
+                ],
+                "dc:subject": [
+                    "NDC8:134.9",
+                    "NDC9:134.96",
+                    "NDLC:HD86"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%AD%98%E5%9C%A8%E3%81%A8%E6%99%82%E9%96%93",
+                        "dc:title": "存在と時間"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E3%83%8F%E3%82%A4%E3%83%87%E3%83%83%E3%82%AC%E3%83%BC%2C+%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3",
+                        "dc:title": "ハイデッガー, マルティン"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%AD%98%E5%9C%A8%E3%81%A8%E6%99%82%E9%96%93",
+                        "dc:title": "存在と時間"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Heidegger%2C+Martin%281889-1976%29",
+                        "dc:title": "Heidegger, Martin(1889-1976)"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=Heidegger%2C+Martin%2C+1889-1976",
+                        "dc:title": "Heidegger, Martin, 1889-1976"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00015783#entity",
+                        "dc:title": "岩波文庫, 青(33)-651-1,2,3,4",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784002011899",
+                        "dc:title": "セット"
+                    },
+                    {
+                        "@id": "urn:isbn:9784003365144",
+                        "dc:title": "1"
+                    },
+                    {
+                        "@id": "urn:isbn:9784003365151",
+                        "dc:title": "2"
+                    },
+                    {
+                        "@id": "urn:isbn:9784003365168",
+                        "dc:title": "3"
+                    },
+                    {
+                        "@id": "urn:isbn:9784003365175",
+                        "dc:title": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    "http://ci.nii.ac.jp/ncid/BB24892317": {
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "bibo": "http://purl.org/ontology/bibo/",
+            "foaf": "http://xmlns.com/foaf/0.1/",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "cinii": "http://ci.nii.ac.jp/ns/1.0/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/"
+        },
+        "@id": "http://ci.nii.ac.jp/ncid/BB24892317.json",
+        "@graph": [
+            {
+                "@id": "http://ci.nii.ac.jp/ncid/BB24892317#entity",
+                "@type": "bibo:Book",
+                "foaf:isPrimaryTopicOf": {
+                    "@id": "http://ci.nii.ac.jp/ncid/BB24892317.json"
+                },
+                "dc:title": [
+                    {
+                        "@value": "世界の共同主観的存在構造"
+                    },
+                    {
+                        "@value": "セカイ ノ キョウドウ シュカンテキ ソンザイ コウゾウ",
+                        "@language": "ja-hrkt"
+                    }
+                ],
+                "dc:creator": "廣松渉著",
+                "dc:publisher": [
+                    "岩波書店"
+                ],
+                "dcterms:extent": "552, 16p",
+                "cinii:size": "15cm",
+                "dc:language": "jpn",
+                "dc:date": "2017",
+                "cinii:ncid": "BB24892317",
+                "cinii:ownerCount": "218",
+                "foaf:maker": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/author/DA00103670#entity",
+                        "@type": "foaf:Person",
+                        "foaf:name": [
+                            {
+                                "@value": "廣松, 渉"
+                            },
+                            {
+                                "@value": "ヒロマツ, ワタル",
+                                "@language": "ja-hrkt"
+                            }
+                        ]
+                    }
+                ],
+                "prism:publicationDate": [
+                    "2017.11"
+                ],
+                "cinii:note": [
+                    "『世界の共同主観的存在構造』(勁草書房, 1972年) に, 附録として足立和浩・白井健三郎・廣松渉による鼎談「サルトルの地平と共同主観性」(『情況』1973年1月号) を併録",
+                    "『世界の共同主観的存在構造』の底本には, 『廣松渉著作集』第一巻 (岩波書店, 1996年) を使用",
+                    "解説: 熊野純彦"
+                ],
+                "dc:subject": [
+                    "NDC9:115"
+                ],
+                "foaf:topic": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E8%AA%8D%E8%AD%98%E8%AB%96",
+                        "dc:title": "認識論"
+                    },
+                    {
+                        "@id": "http://ci.nii.ac.jp/books/search?q=%E5%AD%98%E5%9C%A8%E8%AB%96",
+                        "dc:title": "存在論"
+                    }
+                ],
+                "dcterms:isPartOf": [
+                    {
+                        "@id": "http://ci.nii.ac.jp/ncid/BN00015783#entity",
+                        "dc:title": "岩波文庫, 青N(38)-122-1",
+                        "@type": "bibo:Book"
+                    }
+                ],
+                "dcterms:hasPart": [
+                    {
+                        "@id": "urn:isbn:9784003812419"
+                    }
+                ]
+            }
+        ]
+    }
+}
