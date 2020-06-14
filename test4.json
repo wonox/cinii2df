@@ -1,7 +1,11 @@
 [
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BA8164687X.json",
-        "@graph": [
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BA8164687X.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BA8164687X#entity",
                 "@type": "bibo:Book",
@@ -65,10 +69,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB02488158.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB02488158.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB02488158#entity",
                 "@type": "bibo:Book",
@@ -219,10 +227,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB18501492.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB18501492.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB18501492#entity",
                 "@type": "bibo:Book",
@@ -342,10 +354,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB11534438.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB11534438.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB11534438#entity",
                 "@type": "bibo:Book",
@@ -533,10 +549,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB08796640.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB08796640.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB08796640#entity",
                 "@type": "bibo:Book",
@@ -646,10 +666,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB18528058.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB18528058.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB18528058#entity",
                 "@type": "bibo:Book",
@@ -849,10 +873,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB08818776.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB08818776.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB08818776#entity",
                 "@type": "bibo:Book",
@@ -938,10 +966,14 @@
                 ]
             }
         ]
-    },
-    {
-        "@id": "https://ci.nii.ac.jp/ncid/BB13061654.json",
-        "@graph": [
+    ],
+    [
+        "@id",
+        "https://ci.nii.ac.jp/ncid/BB13061654.json"
+    ],
+    [
+        "@graph",
+        [
             {
                 "@id": "https://ci.nii.ac.jp/ncid/BB13061654#entity",
                 "@type": "bibo:Book",
@@ -1226,5 +1258,5 @@
                 ]
             }
         ]
-    }
+    ]
 ]
